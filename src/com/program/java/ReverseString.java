@@ -16,7 +16,7 @@ public class ReverseString
 		{
 			temp=temp+" "+sarr[i];
 		}
-		System.out.println(temp);
+		System.out.print(temp);
 
 	}
 
